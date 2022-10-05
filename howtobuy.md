@@ -1,3 +1,5 @@
+Just update
+
 <b><u>Step 1:</u></b><br>
 Go to the pixel map, select the pixels that haven’t been bought out yet. The minimum size to buy is a 4x4 block. Choose a bigger plot size / pixel size for a better view of your uploded picture or NFT. You can choose upto 10x10 pixel at once.
 <br><br>
