@@ -1,5 +1,3 @@
-Just update
-
 <b><u>Step 1:</u></b><br>
 Go to the pixel map, select the pixels that haven’t been bought out yet. The minimum amount to buy is 1 pixel. Choose a bigger plot size / pixel size for a better view of your uploded picture or NFT. You can choose upto 10x10 pixel at once. To select a group of pixels click on the first one, hold for a second, than drag to select the whole group.
 <br><br>
