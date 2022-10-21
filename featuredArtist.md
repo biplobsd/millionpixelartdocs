@@ -53,7 +53,7 @@
 <h2>Featured Artist: Arnob</h2>
 </p>
 <h6>Digital art signifying the beginning phase of something.... big.</h6>
-
-<button class="button">Buy It</button>
+<a href= "https://litemint.com/items/GABW7FWNZYZUEJONO62SRQYIQXMT6WLXAJOSACM6LIBL2WINEMAY4YQW/Dawn">
+<button class="button">Buy It</button></a>
 </body>
 </html>
