@@ -47,13 +47,13 @@
 </style>
 </head>
 <body>
-<a href="https://litemint.com/explore?n=0elycolz.litemint.store" style="text-decoration: none;">
-<img src="https://litemint.azureedge.net/userdata/original-Dawn-GABW7FWNZYZUEJONO62SRQYIQXMT6WLXAJOSACM6LIBL2WINEMAY4YQW.gif" alt="Nature" class="responsive" width="600" height="400" />
+<a href="https://0elycolz.litemint.store/" style="text-decoration: none;" target="_blank">
+<img src="https://litemint.azureedge.net/userdata/original-LUMENOTTOS-GDLEVO7DXM5YVMTN2UM3DWFTLXQ7XCYCBCVZMG47FWUWYRGKAF55BDCJ.png" alt="Nature" class="responsive" width="600" height="400" />
 </a>
 <h2>Featured Artist: Arnob</h2>
 </p>
-<h6>Digital art signifying the beginning phase of something.... big.</h6>
-<a href= "https://litemint.com/items/GABW7FWNZYZUEJONO62SRQYIQXMT6WLXAJOSACM6LIBL2WINEMAY4YQW/Dawn">
+<h6>From a planet far far away, an ancient community of Lumenottos just landed on Stellar World. They have a strong creativity and love spending time inventing funny objects!</h6>
+<a href= "https://litemint.com/items/GDLEVO7DXM5YVMTN2UM3DWFTLXQ7XCYCBCVZMG47FWUWYRGKAF55BDCJ/LUMENOTTOS" target="_blank">
 <button class="button">Buy It</button></a>
 </body>
 </html>
