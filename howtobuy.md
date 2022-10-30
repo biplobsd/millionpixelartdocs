@@ -12,4 +12,5 @@ Enter your Email, Discord ID and Telegram ID on the respective fields. Remember,
 You’ll be given a Stellar Public Address to send the payment for buying the Pixel Plot. The price will depend on the blocks you choose. Send the correct amount to the given address. After sending, paste down your Stellar Public Address on the next tab for double safety.
 Your submitted picture and link will be added to the pixel map within 24 hours after it passes the NSFW and verification checks.
 If you fill like your picture has been resized incorrectly, contact us.
-Ofiicial Address for buying pixel plots : G.....
+
+<b>Ofiicial Address for buying pixel plots : GB2AFRQWTTWPY42NNUAD6WCRZO2HDIOBV7VT4UHSMTHYZFBCP5BWWALL </b>
