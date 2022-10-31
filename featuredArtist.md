@@ -50,7 +50,7 @@
 <a href="https://0elycolz.litemint.store/" style="text-decoration: none;" target="_blank">
 <img src="https://litemint.azureedge.net/userdata/original-LUMENOTTOS-GDLEVO7DXM5YVMTN2UM3DWFTLXQ7XCYCBCVZMG47FWUWYRGKAF55BDCJ.png" alt="Nature" class="responsive" width="600" height="400" />
 </a>
-<h2>Featured Artist: Arnob</h2>
+<h2>Featured Artist: Elic(0elycolz)</h2>
 </p>
 <h6>From a planet far far away, an ancient community of Lumenottos just landed on Stellar World. They have a strong creativity and love spending time inventing funny objects!</h6>
 <a href= "https://litemint.com/items/GDLEVO7DXM5YVMTN2UM3DWFTLXQ7XCYCBCVZMG47FWUWYRGKAF55BDCJ/LUMENOTTOS" target="_blank">
